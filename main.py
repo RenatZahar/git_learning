@@ -35,6 +35,9 @@ DIR = os.getenv('DIR')
 # просмотр веток
 # git branch
 
+# создание новых веток 
+# git branch <название ветки>
+
 # возврат к версии или к ветке 
 # git checkout <commit №/ имя ветки>
 
