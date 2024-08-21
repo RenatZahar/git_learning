@@ -38,3 +38,8 @@ DIR = os.getenv('DIR')
 # возврат к версии или к ветке 
 # git checkout <commit №/ имя ветки>
 
+# связываем мастер ветку локального гита и удаленного
+# git push --set-upstream origin master
+
+# выгрузка на гит хаб
+# git push
